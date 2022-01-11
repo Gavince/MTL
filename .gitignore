@@ -1,9 +1,5 @@
 ### Example user template template
 ### Example user template
-# log file
-/checkpoint/
-/log/
-
 # IntelliJ project files
 .idea
 *.iml
@@ -149,3 +145,5 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+!/checkpoint/
+!/log/
