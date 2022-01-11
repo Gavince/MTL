@@ -1,8 +1,8 @@
 ### Example user template template
 ### Example user template
 # log file
-./checkpoint
-./log
+/checkpoint/
+/log/
 
 # IntelliJ project files
 .idea
