@@ -60,6 +60,8 @@
 
 [网易云音乐广告 CTR 预估模型演进过程](https://www.6aiq.com/article/1640133996814)
 
+[Multi-task多任务学习在推荐算法中的应用](https://zhuanlan.zhihu.com/p/109835504)
+
 [多目标排序模型在腾讯 QQ 看点推荐系统中的应用实践](https://www.6aiq.com/article/1616884898601)
 
 [大厂技术干货 | 多目标优化及应用（含代码实现）@推荐与计算广告系列](https://www.bilibili.com/read/cv14132088)
